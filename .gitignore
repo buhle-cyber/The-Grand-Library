@@ -1,0 +1,18 @@
+# Windows system files
+desktop.ini
+Thumbs.db
+
+#Environment files
+.env
+.env.*
+!.env.example
+
+# Build outputs
+node_modules/
+target/
+.next/
+dist/
+
+# IDE files
+.vscode/
+.idea/
